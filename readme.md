@@ -11,7 +11,7 @@ Ví dụ về cách kết nối và sử dụng [**Firebase Realtime Database**]
 **1. Clone repository**<br>
 
 ```
-> git clone
+git clone https://github.com/trith13102/firebase-exmaple.git
 ```
 
 <br>
@@ -38,13 +38,13 @@ APPID="appId của ứng dụng"
 **4. Cài các packages<br>**
 
 ```
-> npm install
+npm install
 ```
 
 hoặc
 
 ```
-> npm i
+npm i
 ```
 
 <br>
