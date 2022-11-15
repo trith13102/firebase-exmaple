@@ -55,7 +55,10 @@ hoặc
 > npm run build
 ```
 
-**Ghi chú**: Có thể cấu hình lại **webpack** bằng cách thay đổi các thuộc tính ở file [webpack.config.json](./webpack.config.js)
+**Ghi chú**: <br>
+
+- Mặc định trong file [firebase.js](./src/js/firebase.js) đang lấy dữ liệu từ bảng **phones**, nếu bạn muốn lấy dữ liệu từ bảng với tên khác thì chỉ cần đổi **phones** thành tên bảng đó.
+- Có thể cấu hình lại **webpack** bằng cách thay đổi các thuộc tính ở file [webpack.config.json](./webpack.config.js)
 
 ```
 const path = require("path");
