@@ -52,7 +52,7 @@ npm i
 **3. Build ứng dụng<br>**
 
 ```
-> npm run build
+npm run build
 ```
 
 **Ghi chú**: <br>
